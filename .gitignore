@@ -1,0 +1,28 @@
+# Large model files
+*.h5
+*.pkl
+*.joblib
+
+# IDE files
+.DS_Store
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+Thumbs.db
